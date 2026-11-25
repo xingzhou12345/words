@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.exe
+*.log
+*.zip
+*.pdf
+*.xlsx
+*.docx
+.tmp/
+/data/
+/雅思随身查-单文件版.html
